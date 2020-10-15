@@ -17,12 +17,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jct8&layout=compact&hide=html&count_private=true&theme=dark" alt="jct8" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
-</p>
 
 <a href="https://github.com/jct8/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jct8&hide=html&count_private=true&theme=dark" />
