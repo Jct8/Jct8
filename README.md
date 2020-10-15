@@ -24,6 +24,14 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
 </p>
 
+<a href="https://github.com/jct8/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jct8&hide=html&count_private=true&theme=dark" />
+</a>
+<a href="https://github.com/jct8/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
+</a>
+
+
 <!--
 **Jct8/Jct8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
