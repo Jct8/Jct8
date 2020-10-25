@@ -19,10 +19,10 @@
 </p>
 
 <a href="https://github.com/jct8/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jct8&hide=html&count_private=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=jct8&hide=html&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/jct8/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
+  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
 </a>
 
 
