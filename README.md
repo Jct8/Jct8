@@ -8,8 +8,8 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" alt="c" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" alt="unity" width="40" height="40"/> 
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/opengl.svg" alt="opengl" width="40" height="40"/>
