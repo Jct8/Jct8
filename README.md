@@ -1,5 +1,7 @@
 <h1 align="center">Justin Tim</h1>
-<h2 align="center">Software Engineer</h2>
+<p align="center">
+  Software Engineer
+</p>
 
 <!---
 <p align="center"> 
@@ -30,6 +32,8 @@
   <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
 </a>
 </p>
+
+---
 
 <p align="center">
   <a href="https://linkedin.com/in/justintim0" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin.svg" alt="justintim0" height="40" width="80" /></a>
