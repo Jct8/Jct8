@@ -1,21 +1,25 @@
 <h1 align="center">Justin Tim</h1>
-<p align="center">
-  Software Engineer
-</p>
 
-<!---
+<h4 align="center">Software Engineer</h4>
+
+<!--
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jct8" alt="jct8" /> 
 </p>
 -->
 
+## 💼 Languages and Tools:
+
 <p align="center">
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" alt="c" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" alt="unity" width="40" height="40"/> 
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/opengl.svg" alt="opengl" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.15.0/icons/vulkan.svg" alt="opengl" width="40" height="40"/>
+  <img src="Assets/unity.jpg" alt="unity" width="40" height="40"/>
+</p>
+<p align="center">
+  <img src="Assets/directx11.png" alt="unity" alt="directx11" width="110" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/opengl.svg" alt="opengl" width="60" height="40"/>
+  <img src="Assets/Vulkan.png" alt="vulkan" width="100" height="30"/>
 </p>
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" alt="python" width="40" height="40"/>
@@ -24,21 +28,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-<p align="center">
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/jct8/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=jct8&hide=html&count_private=true&theme=dark" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=jct8&hide=html&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/jct8/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.codestackr.vercel.app/api?username=jct8&show_icons=true&count_private=true&theme=dark" alt="jct8" />
 </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/justintim0" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin.svg" alt="justintim0" height="40" width="80" /></a>
-</p>
-
 
 <!--
 **Jct8/Jct8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
