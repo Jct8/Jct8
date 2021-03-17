@@ -19,7 +19,7 @@
 <p align="center">
   <img src="Assets/directx11.png" alt="unity" alt="directx11" width="110" height="40"/>
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/opengl.svg" alt="opengl" width="60" height="40"/>
-  <img src="Assets/Vulkan.png" alt="vulkan" width="100" height="30"/>
+  <img src="Assets/vulkan.png" alt="vulkan" width="100" height="30"/>
 </p>
 <p align="center">
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" alt="python" width="40" height="40"/>
