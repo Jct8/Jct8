@@ -18,11 +18,12 @@
 </p>
 <p align="center">
   <img src="Assets/directx11.png" alt="unity" alt="directx11" width="110" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/opengl.svg" alt="opengl" width="90" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/opengl.svg" alt="opengl" width="90" height="40"/>
+  <img src="https://www.3dgep.com/wp-content/uploads/2017/12/Microsoft-DirectX-12.png" alt="unity" alt="directx12" width="110" height="40"/>
   <img src="Assets/vulkan.png" alt="vulkan" width="100" height="35"/>
 </p>
 <p align="center">
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" alt="java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
